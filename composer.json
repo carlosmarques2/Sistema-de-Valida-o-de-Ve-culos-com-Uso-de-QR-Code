@@ -1,0 +1,13 @@
+{
+    "name": "carlos/tcc2_ver2",
+    "authors": [
+        {
+            "name": "Carlos",
+            "email": "carlos@carlos.com"
+        }
+    ],
+    "require": {
+		"php": "^8.0",
+		"chillerlan/php-qrcode": "dev-main"
+	}
+}

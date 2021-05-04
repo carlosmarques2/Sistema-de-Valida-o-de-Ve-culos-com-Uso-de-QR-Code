@@ -1,0 +1,33 @@
+.link_users {
+    color: #fff;
+    text-decoration: none;
+}
+
+.link_users:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.iconQrcode {
+    background: url('../img/qrcode-solid.svg');
+    height: 24px;
+    width: 24px;
+    display: block;
+}
+
+.qr-code {
+    border: 1px;
+    border-style: solid;
+}
+
+.botao-msg {
+    width: 125px !important;
+}
+
+.foto {
+    width: 155px;
+    height: 155px;
+    border: 3px solid grey;
+    border-radius: 50%;
+    padding: 5px;
+}
